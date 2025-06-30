@@ -30,3 +30,14 @@ if(marks >= 80) {
 }else if (marks <= 59) {
     console.log('fail')
 }
+
+
+
+
+if (isUser === true && passwordCorrect === true) {
+  console.log('login successfully');
+} else if (isUser === true && passwordCorrect === false) {
+  console.log('incorrect password');
+} else {
+  console.log('not a user');
+}
