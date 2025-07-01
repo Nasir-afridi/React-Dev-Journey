@@ -19,3 +19,9 @@ function square(num) {
 }
 let result = square(4);
 
+
+// Arrow function to greet name.
+const greet = (name) => {
+  return `Hello, ${name}!`;
+};
+console.log(greet("Nasir"));
