@@ -49,3 +49,12 @@ function Str() {
 }
 
 console.log(Str())
+
+
+
+
+const leng = (values) => {
+    return values.length
+}
+
+console.log(leng('name'));
