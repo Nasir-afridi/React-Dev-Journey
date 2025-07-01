@@ -15,3 +15,9 @@ for(let i = 1; i <= 100; i++) {
     sum = sum + i;
 }
  console.log(sum)
+
+ let i = 1
+ do{
+    console.log(i)
+    i++
+ }while(i <= 3)
