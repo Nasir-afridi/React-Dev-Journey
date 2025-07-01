@@ -9,4 +9,17 @@ function check(n) {
   return n;
 }
 
-console.log(check(33));
+check(33);
+
+
+
+function findMax(a, b, c) {
+  if(a > b && a > c) {
+    return a;
+  }else if (b > a && b > c){
+    return b;
+  }else {
+    return c
+  }}
+
+console.log(findMax(3, 4777777, 5));
