@@ -20,3 +20,11 @@ function sum(a, b, c) {
 }
 
 console.log(sum(2,4,6));
+
+
+
+const names = (name) => {
+    return `Hello ${name}`
+}
+
+console.log(names('nasir'))
