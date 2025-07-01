@@ -14,3 +14,8 @@ I worked on the basics of JavaScript.
 2: do some exercises on the conditions and logical operators.
 3: learn the syntax of for, while, do..while, loops and understand how its working.
 4: Completed the exercises.
+
+....Day__3....
+1:understand how to declare, call functions.
+2:learn how to return something from function.
+3:understanding Arrow functions.
