@@ -13,3 +13,4 @@ I worked on the basics of JavaScript.
 1: learn and understand how to write the conditions and operators.
 2: do some exercises on the conditions and logical operators.
 3: learn the syntax of for, while, do..while, loops and understand how its working.
+4: Completed the exercises.
