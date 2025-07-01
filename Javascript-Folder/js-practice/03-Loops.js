@@ -11,3 +11,10 @@ while (i <= 5) {
   i++;
 }
 
+
+// do...while loop.
+let j = 1;
+do {
+  console.log("Do Number:", j);
+  j++;
+} while (j <= 3);
