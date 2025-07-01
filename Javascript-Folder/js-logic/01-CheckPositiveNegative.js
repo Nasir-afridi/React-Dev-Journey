@@ -1,3 +1,4 @@
+// 1.
 function check(n) {
   if(n > 0){
     console.log("positive");
@@ -8,11 +9,11 @@ function check(n) {
   }
   return n;
 }
-
 check(33);
 
 
 
+// 2.
 function findMax(a, b, c) {
   if(a > b && a > c) {
     return a;
