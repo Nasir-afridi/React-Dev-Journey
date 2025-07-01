@@ -38,3 +38,14 @@ function evenOdd(num) {
 }
 
 evenOdd(3);
+
+
+
+
+function Str() {
+    let name = 'nasir'
+    let result = name.split('').reverse().join('')
+    return result
+}
+
+console.log(Str())
