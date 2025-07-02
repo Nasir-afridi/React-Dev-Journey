@@ -12,6 +12,7 @@ I worked on the basics of JavaScript.
 
 1: learn and understand how to write the conditions and operators.
 
+
 2: do some exercises on the conditions and logical operators.
 
 3: learn the syntax of for, while, do..while, loops and understand how its working.
@@ -27,3 +28,11 @@ I worked on the basics of JavaScript.
 3:understanding Arrow functions.
 
 4:completed the exercises.
+
+....Day__4....
+
+1: understand how to create and acces array.
+
+2: understand all its methods.
+
+3: completed it exercises.
