@@ -3,3 +3,5 @@ let user = {
   age: 19,
   city: "Wah Cantt"
 };
+console.log(user.name); 
+console.log(user['age']); 
