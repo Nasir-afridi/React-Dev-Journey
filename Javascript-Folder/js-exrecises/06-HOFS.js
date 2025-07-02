@@ -20,3 +20,12 @@ let red = redu.reduce(function(acc, curr) {
 })
 
 console.log(red);
+
+
+
+let arra = ['a', 'b', 'c'];
+let ans = arra.forEach(function(index, value) {
+    console.log(value, index) ;
+})
+
+console.log(ans)
