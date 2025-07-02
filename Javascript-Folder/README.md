@@ -45,3 +45,9 @@ I worked on the basics of JavaScript.
 2: practice on it.
 
 3: completed the exercises of it.
+
+....Day__6....
+
+1: learn how to create, access, update objects.
+
+2: complete the exercises.
