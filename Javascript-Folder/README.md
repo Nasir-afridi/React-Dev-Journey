@@ -36,3 +36,12 @@ I worked on the basics of JavaScript.
 2: understand all its methods.
 
 3: completed it exercises.
+
+
+....Day__5....
+
+1: understand the hofs.
+
+2: practice on it.
+
+3: completed the exercises of it.
