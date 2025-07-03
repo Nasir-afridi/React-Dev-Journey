@@ -51,3 +51,17 @@ I worked on the basics of JavaScript.
 1: learn how to create, access, update objects.
 
 2: complete the exercises.
+
+
+
+**..** week 1 Task **..**
+
+# JavaScript Practice — Week 1
+Topics Covered:
+- Variables
+- Conditions
+- Loops
+- Functions
+- Arrays & HOFs
+- Objects
+- Bonus: 10 Logic Problems
