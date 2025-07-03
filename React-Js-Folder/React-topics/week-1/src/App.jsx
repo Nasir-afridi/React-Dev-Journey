@@ -3,7 +3,7 @@ import Footer from "./components/Footer"
 import Greeting from "./components/Greeting"
 import Message from "./components/Message"
 import Counter from "./components/Counter"
-
+import LiveInput from "./components/LiveInput"
 
 function App() {
 
@@ -14,6 +14,7 @@ function App() {
      <Greeting name='Nasir' />
      <Message />
      <Counter />
+     <LiveInput />
     </>
   )
 }
