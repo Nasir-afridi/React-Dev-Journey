@@ -4,6 +4,7 @@ import Greeting from "./components/Greeting"
 import Message from "./components/Message"
 import Counter from "./components/Counter"
 import LiveInput from "./components/LiveInput"
+import Map from "./components/Map"
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
      <Message />
      <Counter />
      <LiveInput />
+     <Map />
     </>
   )
 }
