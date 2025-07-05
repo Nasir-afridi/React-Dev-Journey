@@ -6,6 +6,7 @@ import Counter from "./components/Counter"
 import LiveInput from "./components/LiveInput"
 import Map from "./components/Map"
 import Project from "./components/Project"
+import ProjectGreeting from "./components/ProjectGreeting"
 
 function App() {
 
@@ -18,7 +19,14 @@ function App() {
      <Counter />
      <LiveInput />
      <Map />
-     <Project/>
+
+     <div style={{ padding: "20px", fontFamily: "Arial" }}>
+      <h1>🔥 React Mini Project</h1>
+      <Project />
+      <hr />
+      <ProjectGreeting />
+    </div>
+    
     </>
   )
 }
