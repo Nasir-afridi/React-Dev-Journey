@@ -5,6 +5,7 @@ import Message from "./components/Message"
 import Counter from "./components/Counter"
 import LiveInput from "./components/LiveInput"
 import Map from "./components/Map"
+import Project from "./components/Project"
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
      <Counter />
      <LiveInput />
      <Map />
+     <Project/>
     </>
   )
 }
