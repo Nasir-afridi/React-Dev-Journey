@@ -8,6 +8,7 @@ import Map from "./components/Map"
 import Project from "./components/Project"
 import ProjectGreeting from "./components/ProjectGreeting"
 import EffectHook from "./components/EffectHook"
+import ApiUsers from "./components/ApiUser"
 
 function App() {
 
@@ -28,7 +29,7 @@ function App() {
       <ProjectGreeting />
     </div>
     <EffectHook />
-    
+    <ApiUsers></ApiUsers>
     </>
   )
 }
