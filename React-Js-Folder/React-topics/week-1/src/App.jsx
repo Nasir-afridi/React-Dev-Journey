@@ -9,6 +9,7 @@ import Project from "./components/Project"
 import ProjectGreeting from "./components/ProjectGreeting"
 import EffectHook from "./components/EffectHook"
 import ApiUsers from "./components/ApiUser"
+import FetchUsers from "./components/FetchUsers"
 
 function App() {
 
@@ -29,7 +30,8 @@ function App() {
       <ProjectGreeting />
     </div>
     <EffectHook />
-    <ApiUsers></ApiUsers>
+    <ApiUsers />
+    <FetchUsers />
     </>
   )
 }
