@@ -7,6 +7,7 @@ import LiveInput from "./components/LiveInput"
 import Map from "./components/Map"
 import Project from "./components/Project"
 import ProjectGreeting from "./components/ProjectGreeting"
+import EffectHook from "./components/EffectHook"
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
       <hr />
       <ProjectGreeting />
     </div>
+    <EffectHook />
     
     </>
   )
