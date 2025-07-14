@@ -10,6 +10,7 @@ import ProjectGreeting from "./components/ProjectGreeting"
 import EffectHook from "./components/EffectHook"
 import ApiUsers from "./components/ApiUser"
 import FetchUsers from "./components/FetchUsers"
+import FetchConsole from "./components/FetchConsole"
 
 function App() {
 
@@ -32,6 +33,7 @@ function App() {
     <EffectHook />
     <ApiUsers />
     <FetchUsers />
+    <FetchConsole />
     </>
   )
 }
