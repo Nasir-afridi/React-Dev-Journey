@@ -4,9 +4,9 @@ import { useEffect } from 'react';
 const EffectHook = () => {
 
    useEffect(() => {
-    console.log('hello world')
-   }, [])
+      console.log('Component mounted successfully!');
 
+   }, [])
    return <h2>use Effect hook</h2>
 }
 
