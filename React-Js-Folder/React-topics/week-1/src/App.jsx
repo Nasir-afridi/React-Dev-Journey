@@ -11,6 +11,7 @@ import EffectHook from "./components/EffectHook"
 import ApiUsers from "./components/ApiUser"
 import FetchUsers from "./components/FetchUsers"
 import FetchConsole from "./components/FetchConsole"
+import LiveIn from "./components/LiveIn"
 
 function App() {
 
@@ -34,6 +35,7 @@ function App() {
     <ApiUsers />
     <FetchUsers />
     <FetchConsole />
+    <LiveIn />
     </>
   )
 }
