@@ -12,6 +12,7 @@ import ApiUsers from "./components/ApiUser"
 import FetchUsers from "./components/FetchUsers"
 import FetchConsole from "./components/FetchConsole"
 import LiveIn from "./components/LiveIn"
+import AddUsers from "./components/AddUsers"
 
 function App() {
 
@@ -36,6 +37,7 @@ function App() {
     <FetchUsers />
     <FetchConsole />
     <LiveIn />
+    <AddUsers />
     </>
   )
 }
